@@ -36,8 +36,7 @@ sudo make install-nvcc
 
 Plugins are installed into `/Library/Application Support/Developer/Shared/Xcode/Plug-ins`, but each plugin is made for a specific Xcode version and won't load in other versions.
 
-Based off https://github.com/hellobbn/xcode-gcc, fixed localizable strings encoding and modified for MPICC and NVCC.
-
+Special thanks to https://github.com/usr-sse2/xcode-compilers/ 
 References:
 
 http://hamelot.co.uk/programming/add-gcc-compiler-to-xcode-6/
